@@ -15,3 +15,6 @@
 
 ### Языки 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otkazano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![telegram (6)](https://user-images.githubusercontent.com/70646350/119327162-5952b280-bc8b-11eb-97b2-4484aab48d02.png)](https://t.me/trivep)&nbsp;&nbsp;
+[![whatsapp (1)](https://user-images.githubusercontent.com/70646350/119327478-b189b480-bc8b-11eb-8897-22dbd8a529ad.png)](https://wa.me/79115681101)&nbsp;
